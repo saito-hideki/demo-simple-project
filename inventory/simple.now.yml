@@ -1,8 +1,5 @@
 ---
 plugin: servicenow.itsm.now
-instance:
-  grant_type: refresh_token
-  timeout: 10
 query:
   - os: = Linux Red Hat
   - os: = Windows XP
